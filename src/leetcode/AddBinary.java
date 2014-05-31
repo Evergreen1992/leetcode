@@ -5,7 +5,7 @@ package leetcode;
  * example, a = "11" b = "1" 
  * Return "100".
  * 
- * @author Evergreen
+ * @author Evergreen。
  * 
  */
 public class AddBinary {
